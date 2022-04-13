@@ -1,0 +1,49 @@
+_repo: The-Story-of-Chalmers-of-New-Guinea_67613
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Robinson, W. Heath (William Heath)
+    alias: Robinson, William Heath
+    birthdate: 1872
+    deathdate: 1944
+    gutenberg_agent_id: '34723'
+    url: http://www.gutenberg.org/2009/agents/34723
+    wikipedia: https://en.wikipedia.org/wiki/W._Heath_Robinson
+creator:
+  author:
+    agent_name: Kelman, Janet Harvey
+    alias: Harvey Kelman, Janet
+    gutenberg_agent_id: '40385'
+    url: http://www.gutenberg.org/2009/agents/40385
+description: ''
+gutenberg_issued: '2022-03-12'
+identifiers:
+  gutenberg: '67613'
+language: en
+pgterms:marc904: https://archive.org/details/storyofchalmerso00kelmiala/mode/2up
+pgterms:marc905: 20220120183431lilman
+pgterms:marc906: '1906'
+pgterms:marc907: gb
+production_note: D A Alexander and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by University of California
+  libraries)
+publication_note: United Kingdom :T. C. & E. C. Jack / E. F. Dutton & Co.,1906.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: The Children's Heroes Series
+subjects:
+- !lcc 'DU'
+- !lcsh 'Sailing -- Juvenile literature'
+- !lcsh 'Missionaries -- Scotland -- Biography -- Juvenile literature'
+- !lcsh 'Shipwrecks -- Juvenile literature'
+- !lcsh 'New Guinea -- Juvenile literature'
+- !lcsh 'Islands -- Juvenile literature'
+- !lcsh 'Voyages and travels -- Juvenile literature'
+- !lcsh 'Chalmers, James, 1841-1901 -- Juvenile literature'
+- GITenberg
+tableOfContents: Boyhood in Argyll -- The "John Williams" -- Rarotonga -- The death
+  of Bocasi -- The spirits of the height -- Kone -- The Beritani war-canoes -- Tamate
+  and another -- The charms of Aveo -- The Barrier Reef -- The Fly River.
+title: The Story of Chalmers of New Guinea
+url: http://www.gutenberg.org/ebooks/67613
