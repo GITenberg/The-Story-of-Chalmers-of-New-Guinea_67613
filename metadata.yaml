@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '34723'
     url: http://www.gutenberg.org/2009/agents/34723
     wikipedia: https://en.wikipedia.org/wiki/W._Heath_Robinson
+covers:
+- cover_type: archival
+  image_path: 67613-h/images/cover.jpg
 creator:
   author:
     agent_name: Kelman, Janet Harvey
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '40385'
     url: http://www.gutenberg.org/2009/agents/40385
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67613#The-Story-of-Chalmers-of-New-Guinea
 gutenberg_issued: '2022-03-12'
 identifiers:
   gutenberg: '67613'
